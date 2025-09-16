@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Presensi App</string>
+    <string name="presensi">Presensi</string>
+    <string name="submit">Submit</string>
+    <string name="pilih_tempat_waktu">Pilih Tempat Waktu</string>
+    <string name="sakit">Sakit</string>
+    <string name="hadir_tepat_waktu">Hadir Tepat Waktu</string>
+    <string name="terlambat">Terlambat</string>
+    <string name="izin">Izin</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="konfirmasi_keluar">Konfirmasi Keluar</string>
+    <string name="yakin_keluar">Apakah Anda yakin ingin keluar dari aplikasi?</string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+    <string name="presensi_berhasil">Presensi berhasil disimpan!</string>
+    <string name="isi_waktu_lengkap">Mohon isi waktu dengan lengkap</string>
+    <string name="pilih_tempat_waktu_error">Mohon pilih tempat waktu</string>
+</resources>
